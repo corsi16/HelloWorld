@@ -1,0 +1,17 @@
+style.css
+h2{
+    color: orange;
+}
+   
+body{
+    background-color: #305050;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header{ 
+    border-bottom: 1px solid gray;
+}
+footer{
+    border-top: 1px solid gray;
+}
